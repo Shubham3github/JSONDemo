@@ -10,8 +10,8 @@
 
 @interface ViewController : UIViewController
 {
-    IBOutlet UILabel* humanReadble;
-    IBOutlet UILabel* jsonSummary;
+//    IBOutlet UILabel* humanReadble;
+//    IBOutlet UILabel* jsonSummary;
 }
 
 
